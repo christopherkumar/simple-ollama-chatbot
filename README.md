@@ -22,7 +22,7 @@ This project implements an AI-powered chatbot that utilizes a vector database fo
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/christopherkumar/simple-ollama-chatbot.git)>
    cd chatbot-with-contextual-memory
 2. Install the required libraries:
    ```bash
