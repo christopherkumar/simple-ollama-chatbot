@@ -25,7 +25,8 @@ This project implements an AI-powered chatbot that utilizes a vector database fo
    git clone <repository-url>
    cd chatbot-with-contextual-memory
 2. Install the required libraries:
-   `pip install ollama chromadb langchain_ollama`
+   ```bash
+   pip install ollama chromadb langchain_ollama
 
 ## Usage
 
